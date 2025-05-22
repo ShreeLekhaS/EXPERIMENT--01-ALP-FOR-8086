@@ -1,4 +1,4 @@
-# EXPERIMENT--01-ALP-FOR-8086
+![Screenshot 2025-05-20 112733](https://github.com/user-attachments/assets/09779584-ae0a-4f71-ada8-3c76b4f9885b)# EXPERIMENT--01-ALP-FOR-8086
 Name :
 Roll no 
 Date of experiment :
@@ -75,30 +75,91 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 
 
-## Programs for arithmetic  operations
+## Programs for arithmetic  operations:
 
-## Addition  of 8 bit ALP 
-
-
-
+## Addition  of 8 bit ALP:
+```
+MOV Al,28H
+MOV Bl,19H
+ADD Al,Bl
+RET
+```
 ## Output  
+
+![Screenshot 2025-05-20 112500](https://github.com/user-attachments/assets/f73e2f0f-c67c-4989-a610-45cc809ad15b)
+
  
-## Subtraction   of 8 bit numbers  ALP 
- 
+## Subtraction   of 8 bit numbers  ALP:
+```
+MOV Al,28H
+MOV Bl,19H
+SUB Al,Bl
+RET
+```
 ## Output  
-## Multiplication alp 
+![Screenshot 2025-05-20 112733](https://github.com/user-attachments/assets/b4d368fa-bfa7-4811-af12-584793d29a4b)
+
+
+## Multiplication of 8 bit number ALP:
+```
+MOV Al,28H
+MOV Bl,19H
+MUL Bl
+RET
+
+```
  ## Output  
+![Screenshot 2025-05-20 112543](https://github.com/user-attachments/assets/a3ce16d0-7635-4093-9836-ed1414766a92)
 
 
-## Division alp 
-
+## Division of 8 bit number ALP:
+```
+MOV Al,28H
+MOV Bl,19H
+DIV Bl
+RET
+```
 ## Output  
+
+![Screenshot 2025-05-20 112623](https://github.com/user-attachments/assets/14f0b017-7c81-44d1-9458-3c8a450425ba)
+
+## AND of 8 bit number ALP:
+```
+MOV Al,28H
+MOV Bl,19H
+AND Al,Bl
+RET
+```
+## Output  
+
+![Screenshot 2025-05-20 113217](https://github.com/user-attachments/assets/ba5823d0-f090-4fa4-bb8f-214f25e2949c)
+
+## OR of 8 bit number ALP:
+```
+MOV Al,28H
+MOV Bl,19H
+OR Al,Bl
+RET
+```
+
+## Output 
+![Screenshot 2025-05-20 113115](https://github.com/user-attachments/assets/5ac05155-c7db-496a-91d9-b204fab97e31)
+
+## XOR of 8 bit number ALP:
+```
+MOV Al,28H
+MOV Bl,19H
+XOR Al,Bl
+RET
+```
+## Output:
+
+![Screenshot 2025-05-20 113028](https://github.com/user-attachments/assets/531e7b5c-1a40-47a4-a5da-8c6c1b725788)
 
 
 ## Result :
- 
 
-
+The execution of ALP on fundamental arithmetic and logical operations is successfully completed.
 
 
 
