@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-## Name : Shree Lekha.S
-## Roll no.:212223110052
-## Date of experiment :
+### Name : Shree Lekha.S
+### Roll no.:212223110052
+### Date of experiment :
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
