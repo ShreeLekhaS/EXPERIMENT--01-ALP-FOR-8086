@@ -153,6 +153,15 @@ RET
 
 ![Screenshot 2025-05-20 113028](https://github.com/user-attachments/assets/531e7b5c-1a40-47a4-a5da-8c6c1b725788)
 
+## NOT of 8 bit number ALP:
+```
+MOV Al,28H
+NOT Al
+RET
+```
+
+## Output:
+![image](https://github.com/user-attachments/assets/6f33951a-58ea-45ee-99a8-3558a40bb817)
 
 ## Result :
 
