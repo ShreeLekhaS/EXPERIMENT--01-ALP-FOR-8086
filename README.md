@@ -1,10 +1,7 @@
-![Screenshot 2025-05-20 112733](https://github.com/user-attachments/assets/09779584-ae0a-4f71-ada8-3c76b4f9885b)# EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
+# EXPERIMENT--01-ALP-FOR-8086
+Name : Shree Lekha.S
+Roll no.:212223110052
 Date of experiment :
-
-
-
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
